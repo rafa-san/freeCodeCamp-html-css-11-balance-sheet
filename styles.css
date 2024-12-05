@@ -34,14 +34,14 @@ h1 .flex span:last-of-type {
 }
 
 #years {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: flex-end;
   background-color: #0a0a23;
   color: #fff;
   margin: 0 -2px;
   padding: 0.5rem calc(1.25rem + 2px) 0.5rem 0;
-  display: flex;
-  justify-content: flex-end;
-  position: sticky;
-  top: 0;
   z-index: 999;
 }
 
@@ -56,20 +56,20 @@ h1 .flex span:last-of-type {
 }
 
 table {
+  position: relative;
   border: 0;
   border-collapse: collapse;
   margin-top: 3rem;
   width: 100%;
-  position: relative;
 }
 
 table caption {
-  color: #356eaf;
-  font-size: 1.3em;
-  font-weight: normal;
   position: absolute;
   top: -2.25rem;
   left: 0.5rem;
+  color: #356eaf;
+  font-size: 1.3em;
+  font-weight: normal;
 }
 
 tbody td {
@@ -119,11 +119,11 @@ tr.data th {
 }
 
 tr.data th .description {
+  display: block;
   font-style: italic;
   font-weight: normal;
   margin-right: -13.5rem;
   padding: 1rem 0 0.75rem;
-  display: block;
 }
 
 tr.data td {
@@ -137,6 +137,7 @@ tr.data td:last-of-type {
 }
 
 span[class~="sr-only"] {
+  position: absolute !important;
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important;
   clip-path: inset(50%) !important;
@@ -146,5 +147,4 @@ span[class~="sr-only"] {
   padding: 0 !important;
   width: 1px !important;
   white-space: nowrap !important;
-  position: absolute !important;
 }
