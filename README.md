@@ -3,10 +3,10 @@
 # Responsive Web Design Certification #11 | Balance Sheet
 
 ## 1️⃣ Objetivo
-Criar uma tabela de balanço patrimonial utilizando pseudosseletores CSS, explorando a estilização avançada de elementos HTML.
+Criar uma tabela de balanço patrimonial utilizando CSS *pseudo selectors*, explorando a estilização avançada de elementos HTML.
 
 ## 2️⃣ Descrição
-Este é o 11º curso da trilha **Responsive Web Design Certification**, focado em aprofundar o conhecimento sobre *CSS Pseudo-Selectors* e sua aplicação prática.
+Este é o 11º curso da trilha **Responsive Web Design Certification**, focado em aprofundar o conhecimento sobre *CSS pseudo-selectors* e sua aplicação prática.
 
 *CSS Pseudo-Selectors* são ferramentas usadas para estilizar elementos HTML. O curso apresenta essas funcionalidades de forma prática, abordando as principais categorias de seletores:
 
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
